@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GrayTextBox
+comment0.text=\r\n\ A\ Generic\ gray\ button\ to\ display\ text\ that\ is\ clickable.\ Owned\ by\ a\ World,\ which\ controls\ click\r\n\ capturing.\r\n\ \r\n\ @author\ Gavin\ Sun\r\n\ @version\ December\ 2019\r\n
+comment1.params=text
+comment1.target=GrayTextBox(java.lang.String)
+comment1.text=\r\n\ Construct\ a\ TextButton\ that\ is\ gray\ with\ a\ given\ String\ at\ the\ default\ size.\r\n\ \r\n\ @param\ text\ \ String\ value\ to\ display.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act()\ method\ checks\ if\ mouse\ has\ moved\ over\ the\ button.\r\n
+comment3.params=text\ textSize
+comment3.target=GrayTextBox(java.lang.String,\ int)
+comment3.text=\r\n\ Construct\ a\ TextButton\ that\ is\ gray\ with\ a\ given\ String\ and\ a\ specified\ size.\r\n\ \r\n\ @param\ text\ \ String\ value\ to\ display.\r\n\ @param\ textSize\ \ size\ of\ text,\ as\ an\ integer.\r\n\ \r\n
+comment4.params=colour
+comment4.target=void\ update(greenfoot.Color)
+comment4.text=\r\n\ Change\ the\ colour\ of\ this\ Button.\r\n\ \r\n\ @param\ colour\ The\ colour\ to\ use.\r\n\ \r\n
+numComments=5

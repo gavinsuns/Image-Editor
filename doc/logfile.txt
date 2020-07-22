@@ -1,0 +1,46 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/PlugIns/jdk/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-protected
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/extensions/greenfoot.jar:/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/bluejcore.jar:/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/bluejeditor.jar:/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/bluejext.jar:/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/AppleJavaExtensions.jar:/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/junit-4.8.2.jar:/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/bluej.jar:/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/commons-httpclient-3.1.jar:/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/commons-logging-api-1.1.2.jar:/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/commons-codec-1.3.jar:/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/jl1.0.1.jar:/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/opencsv-2.3.jar:/Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode
+-d
+/Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/Greenfoot 2.3.0/Greenfoot.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/Processor.java
+<---- end of javadoc command ---->
+Loading source file /Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/Processor.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_21
+Building tree for all the packages and classes...
+Generating /Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/doc/Processor.html...
+/Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/Processor.java:131: warning - @param argument "int" is not a parameter name.
+/Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/Processor.java:131: warning - @param argument "int" is not a parameter name.
+/Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/Processor.java:131: warning - @param argument "int" is not a parameter name.
+/Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/Processor.java:131: warning - @param argument "int" is not a parameter name.
+Generating /Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/doc/package-frame.html...
+Generating /Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/doc/package-summary.html...
+Generating /Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/doc/allclasses-frame.html...
+Generating /Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/doc/allclasses-noframe.html...
+Generating /Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/doc/index.html...
+Generating /Users/Jordan/Dropbox/_Courses/ICS4U/Unit 3 - Advanced Concepts/10A - ImageManipulatorAssignment/ImageManipulatorStarterCode/doc/stylesheet.css...
+4 warnings

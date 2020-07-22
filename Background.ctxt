@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Background
+comment0.text=\r\n\ The\ class\ Processor\ contains\ all\ of\ the\ code\ to\ actually\ perform\r\n\ transformation.\ The\ rest\ of\ the\ classes\ serve\ to\ support\ that\r\n\ capability.\ This\ World\ allows\ the\ user\ to\ choose\ transformations\r\n\ and\ open\ files.\r\n\ \r\n\ @author\ Gavin\ Sun\r\n\ @version\ December\ 2019\r\n
+comment1.params=
+comment1.target=Background()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Background.\r\n\ \r\n
+comment2.params=
+comment2.target=ImageHolder\ getImage()
+comment2.text=\r\n\ getImage()\ method\ gets\ the\ image\ for\ other\ classes\ to\ access.\r\n\ \r\n\ @return\ image\ returns\ the\ current\ image.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act()\ method\ just\ checks\ for\ mouse\ input.\r\n
+comment4.params=
+comment4.target=void\ checkMouse()
+comment4.text=\r\n\ Check\ for\ user\ clicking\ on\ a\ button.\r\n
+comment5.params=
+comment5.target=void\ openFile()
+comment5.text=\r\n\ Allows\ the\ user\ to\ open\ a\ new\ image\ file.\r\n
+comment6.params=
+comment6.target=void\ saveAsPNG()
+comment6.text=\r\n\ Allows\ the\ user\ to\ save\ a\ file\ as\ a\ PNG.\r\n
+comment7.params=
+comment7.target=void\ saveAsJPG()
+comment7.text=\r\n\ Allows\ user\ to\ save\ a\ file\ as\ a\ JPG.\r\n
+numComments=8
