@@ -4,9 +4,8 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Image-Editor
+PURPOSE OF PROJECT: Recreate an image editing software like photshop in greenfoot
+VERSION or DATE: Final
+HOW TO START THIS PROJECT: Open file in greenfoot and click run
+AUTHOR: Gavin Sun
